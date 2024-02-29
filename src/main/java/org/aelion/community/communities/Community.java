@@ -17,3 +17,5 @@ public class Community {
 
     private String inseeCode;
 }
+
+// Hey
